@@ -1,0 +1,13 @@
+.container {
+  max-width: 1312px;
+  margin: 0px auto;
+  margin-top: 40px;
+
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.loader {
+  height: 100px;
+}

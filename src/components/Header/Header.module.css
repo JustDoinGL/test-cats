@@ -1,0 +1,12 @@
+.header {
+  width: 100%;
+	background: #2196f3;
+}
+
+.nav {
+  margin-left: 65px;
+}
+
+.items {
+  display: flex;
+}
