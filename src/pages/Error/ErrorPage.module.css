@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.message {
+  text-align: center;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.title {
+  font-size: 48px;
+  color: #ff5a5f;
+}
+
+.description {
+  font-size: 24px;
+  color: #333;
+}
